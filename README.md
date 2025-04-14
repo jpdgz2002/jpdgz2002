@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jpdgz2002/jpdgz2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingenieria Fisica en EAFIT**
+:pencil: **Generador de Contenido**
+:eyeglasses: **empepernido**
+:family: **Esperando a ser papa**
 
-Here are some ideas to get you started:
+###Vias de Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-pablo-diaz-gonzalez-244384241%2F
+)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jpdgz2002/jpdgz2002)
+
+
+
