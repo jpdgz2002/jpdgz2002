@@ -1,5 +1,5 @@
 ## Hi there 👋
-:computer: **Physicist Engineer from EAFIT University**  
+:computer: **Physics Engineer from EAFIT University**  
 :pencil: **Content Creator**  
 :robot: **AI Enthusiast and Creator**  
 :heart: **Single, looking to get married and have kids**  
