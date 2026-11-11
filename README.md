@@ -2,7 +2,7 @@
 :computer: **Physics Engineer from EAFIT University**  
 :pencil: **Content Creator**  
 :robot: **AI Enthusiast and Creator**  
-:heart: **Single, looking to get married and have kids**  
+:heart: **Almost married and with 7 kids**  
 
 ### Contact Links
 
